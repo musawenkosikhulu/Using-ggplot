@@ -1,0 +1,2 @@
+# Using-ggplot
+I'll dive deeper with ggplot2 to quickly create data visualizations that allow me to explore my data and gain new insights.  By the time I complete this activity, I will have strengthened your understanding of ggplot2 and visualizing data in R. I will be able to use basic ggplot2 syntax and troubleshoot some common errors I might encounter. This will enable me to easily demonstrate and share my insights throughout my career as a data analyst.
